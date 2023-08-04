@@ -8,8 +8,12 @@ body {
     font-family: 'Inter', sans-serif;
 }
 
-/* Hero header section */
 
+
+/* Hero header section */
+.hero-header{
+    background: url(../img/Background\ pattern.png) no-repeat center;
+}
 .hero-header header {
     display: flex;
     justify-content: center;
